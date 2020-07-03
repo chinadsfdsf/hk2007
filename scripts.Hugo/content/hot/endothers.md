@@ -27,18 +27,11 @@ categories:
 
 {{< mybrline1 color="blue" >}}
 
-{{< mydiv4o link="https://hk2006.chinadsf.org/"   text="hk2006   2020年6月的新聞 " bg="lightsteelblue" >}}
-{{< mydiv4o link="https://hk2006a.chinadsf.org/"  text="hk2006a  2020年6月的新聞a" bg="lightsteelblue" >}}
-{{< mydiv4o link="https://hk2006b.chinadsf.org/"  text="hk2006b  2020年6月的新聞b" bg="lightsteelblue" >}}
-{{< mydiv4o link="https://hk2006c.chinadsf.org/"  text="hk2006c  2020年6月的新聞c" bg="lightsteelblue" >}}
-{{< mydiv4o link="https://hk2006d.chinadsf.org/"  text="hk2006d  2020年6月的新聞d" bg="lightsteelblue" >}}
-{{< mydiv4o link="https://hk2006e.chinadsf.org/"  text="hk2006e  2020年6月的新聞e" bg="lightsteelblue" >}}
-{{< mydiv4o link="https://hk2006f.chinadsf.org/"  text="hk2006f  2020年6月的新聞f" bg="lightsteelblue" >}}
-{{< mydiv4o link="https://hk2006g.chinadsf.org/"  text="hk2006g  2020年6月的新聞g" bg="plum" >}}
+{{< mydiv4o link="https://hk2006g.chinadsf.org/"  text="hk2006g  2020年6月的新聞g" bg="lightsteelblue" >}}
+{{< mydiv4o link="https://hk2007.chinadsf.org/"   text="hk2007   2020年7月的新聞"  bg="plum" >}}
 
 {{< mybrline1 color="blue" >}}
 
-{{< mydiv4o link="https://hk2007.chinadsf.org/"   text="hk2007   2020年7月的新聞">}}
 {{< mydiv4o link="https://hk2008.chinadsf.org/"   text="hk2008   2020年8月的新聞">}}
 {{< mydiv4o link="https://hk2009.chinadsf.org/"   text="hk2009   2020年9月的新聞">}}
 {{< mydiv4o link="https://hk2010.chinadsf.org/"   text="hk2010   2020年10月的新聞">}}
